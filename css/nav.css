@@ -1,0 +1,14 @@
+#nav.navigation-bar {
+  position: fixed ;
+  width: 100% ;
+  z-index: 99;
+  background-color: var(--background-color);
+}
+
+#nav.navigation-bar svg {
+  flex-shrink:0;
+}
+
+#nav.navigation-bar input{
+  flex-shrink:0;
+}
